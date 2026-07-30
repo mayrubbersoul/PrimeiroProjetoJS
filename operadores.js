@@ -51,4 +51,5 @@ if (perfil === "Administrador"){
 let ativo = true;
 console.log(!ativo);
 console.log(!false);
-// muito usado para alternar estados: visível/invisível, ativo/inativo
+// muito usado para alternar estados: 
+// visível/invisível, ativo/inativo
