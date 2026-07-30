@@ -1,8 +1,8 @@
 # Meu Primeiro Projeto JavaScript
 
-## 🤑Aluno
+## 💕Aluno
 
-Nome: Vitor Lima
+Nome: Marjory de Sousa Villas Boas
 Turma:DS1A
 Professor:Vitor Lima
 
